@@ -1,4 +1,4 @@
-const env = process.env.ENV || 'local'
+export const env = process.env.ENV || 'local'
 
 const config = {
   local: {

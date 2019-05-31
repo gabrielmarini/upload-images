@@ -89,3 +89,6 @@ typings/
 
 # Build Application
 dist/
+
+# Tmp Files
+tmp/
